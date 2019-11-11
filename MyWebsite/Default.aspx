@@ -3,14 +3,14 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
-    <div>
-        <p>This is my first website tet</p>
-    </div>
-    </form>
-</body>
+	<head runat="server">
+		<title></title>
+	</head>
+	<body>
+		<form id="form1" runat="server">
+			<div>
+				<p>This is my first website test1</p>
+			</div>
+		</form>
+	</body>
 </html>
