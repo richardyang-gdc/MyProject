@@ -3,3 +3,7 @@
 ################################################################################
 
 /MyWebsite/bin
+/MyWebsite/obj
+/packages
+/.vs/config
+/.vs/MyWebsite/v15/Server/sqlite3
